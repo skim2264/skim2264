@@ -9,7 +9,7 @@ I believe in continuous growth and pushing the boundaries of what's possible. I'
 Let's connect and collaborate! Reach out to me on GitHub or drop me a message. Together, we can create something extraordinary! 🚀
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,babel,bootstrap,express,firebase,git,jest,java,python,mongodb,nodejs,postman,pug,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,babel,bootstrap,express,firebase,git,jest,java,python,mongodb,nodejs,postman,pug,sass)](https://skillicons.dev)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=skim2264)](https://git.io/streak-stats)
 
