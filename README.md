@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Soojin Kim, a passionate and self-taught full-stack web developer!
+### Hi there 👋 I'm Soojin Kim, a passionate and full-stack web developer!
 
 I'm all about the exciting world of front-end and back-end development. I may not have a ton of professional experience just yet, but I'm a quick learner, always up for a challenge, and ready to bring my enthusiasm to any dynamic team.
 
